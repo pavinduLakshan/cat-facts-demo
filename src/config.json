@@ -1,0 +1,13 @@
+{
+    "baseUrl": "https://dev.api.asgardeo.io/t/org19418",
+    "clientID": "5EH0OJBCy9HsyZUqDWivx8ox1g8a",
+    "scope": [
+        "openid",
+        "profile"
+    ],
+    "signInRedirectURL": "https://localhost:3000",
+    "signOutRedirectURL": "https://localhost:3000",
+    "resourceServerURLs": [
+        "https://cat-fact.herokuapp.com"
+    ]
+}
